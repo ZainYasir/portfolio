@@ -6,9 +6,9 @@ const Footer: React.FC = () => {
   
   const socialLinks = [
     { icon: <Github size={18} />, href: 'https://github.com/zainyasir' },
-    { icon: <Linkedin size={18} />, href: 'https://linkedin.com/in/zainyasir' },
+    { icon: <Linkedin size={18} />, href: 'https://www.linkedin.com/in/zain-yasir-36857431b' },
     { icon: <Twitter size={18} />, href: 'https://twitter.com/zainyasir' },
-    { icon: <Mail size={18} />, href: 'mailto:contact@zainyasir.com' },
+    { icon: <Mail size={18} />, href: 'mailto:itszainyasir@gmail.com' },
   ];
 
   return (

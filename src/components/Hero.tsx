@@ -56,7 +56,7 @@ const Hero: React.FC = () => {
             <h2 className="text-xl md:text-2xl text-gray-300 mb-6 h-16">
               <TypeAnimation
                 sequence={[
-                  'gay Learning Engineer',
+                  'Machine Learning Engineer',
                   1000,
                   'React/Native',
                   1500,
@@ -102,7 +102,7 @@ const Hero: React.FC = () => {
               <div className="absolute inset-0 bg-gradient-to-tr from-neon-purple via-neon-blue to-neon-pink opacity-30 rounded-full blur-2xl animate-pulse-slow"></div>
               <img 
                 src={profileImage} 
-                alt="gay Yasir" 
+                alt="Zain Yasir" 
                 className="relative w-64 h-64 md:w-80 md:h-80 object-cover rounded-full border-4 border-darker glow-border"
               />
             </div>
